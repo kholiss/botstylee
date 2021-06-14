@@ -33,6 +33,7 @@ Bonus: Rp${poin}
   handler.help = ['susunkata']
   handler.tags = ['game']
   handler.command = /^susunkata/i
+  hendler.limit = true 
   
   
   module.exports = handler
