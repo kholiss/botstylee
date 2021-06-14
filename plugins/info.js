@@ -20,10 +20,21 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Indosat [082114499086]
-╠➥ Gopay [082114499086]
+╠➥ Indosat [081524396404]
+╠➥ Gopay [085877565662]
 ╠➥ Saweria [https://saweria.co/botstyle]
 ║
+╠═〘 SEWA BOT 〙 ═
+╠➥ SEWA 5K/GROUP (1 MINGGU)
+╠➥ SEWA 10K/GROUP (2 MINGGU)
+╠➥ SEWA 15/GROUP (1 BULAN)
+╠═〘 PEMBAYARAN 〙 ═
+╠➥GOPAY
+╠➥PULSA
+╠═〘 KEUNTUNGAN SEWA BOT 〙 ═
+╠➥FITUR PREMIUM TERBUKA
+╠➥LIMIT UNLIMITED
+╠➥ANTI LINK ON (SHARE LINK BAKALAN TERKICK)
 ╠═ Request? ${package.bugs.url}
 ╠═ officiall Group *${conn.getName(conn.user.jid)}* :
 ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n║\n`}
