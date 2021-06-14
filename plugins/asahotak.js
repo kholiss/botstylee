@@ -32,5 +32,6 @@ Bonus: Rp${poin}
   handler.help = ['asahotak']
   handler.tags = ['game']
   handler.command = /^asahotak/i
+  hendler.limit = true 
   
   module.exports = handler
