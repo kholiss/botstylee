@@ -23,5 +23,6 @@ let handler  = async (m, { conn, usedPrefix }) => {
   handler.help = ['family100']
   handler.tags = ['game']
   handler.command = /^family100/i
+  hendler.limit = true 
   
   module.exports = handler
