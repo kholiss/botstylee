@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/LUlIAKUdN97GTabpDlXicZ']
-global.owner = ['6282114499086', '6282114499086', '6282114499086']// Put your number here
+global.owner = ['6281524396404', '6281524396404', '6281524396404']// Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -11,13 +11,13 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.xteam.xyz': '48b1bd5da7bdc28e',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael'
 }
 
 // Sticker WM
-global.packname = 'Benniganteng\'benniismael'
-global.author = 'Benniismael'
+global.packname = 'Kholisganteng\'Kholis'
+global.author = 'Kholis'
 
 global.multiplier = 69 // The higher, The harder levelup
 
