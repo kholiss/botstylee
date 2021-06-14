@@ -17,7 +17,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/botstylee/bsbt
+> git clone https://github.com/kholiss/botstylee
 > cd bsbt
 > npm install
 ```
